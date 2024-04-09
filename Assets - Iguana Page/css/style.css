@@ -1,0 +1,180 @@
+header {
+  background-color: black;
+  width: 1280px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  display: flex;
+  margin: 7px 0px 7px 0px;
+  padding: 0px;
+  width: 221px;
+  height: 59px;
+  text-align: left;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-size: 50px;
+  font-style: normal;
+  color: #ffffff;
+  opacity: 1;
+}
+.iguanagrande {
+  background-image: url(../img/bg-header.jpg);
+  top: 73px;
+  left: 0px;
+  width: 1280px;
+  height: 727px;
+}
+.introduccion {
+  top: 800px;
+  left: 0px;
+  width: 1280px;
+  height: 348px;
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.info {
+  margin: 0px;
+  display: flex;
+  width: 475px;
+  height: 197px;
+  text-align: left;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-size: 16px;
+  font-style: normal;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.iguana1 {
+  top: 845px;
+  left: 731px;
+  width: 399px;
+  height: 237px;
+  background: transparent url(../img/iguana-1.jpg) 0% 0% no-repeat padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 1;
+}
+.caracteristicas {
+  display: inline-block;
+  top: 1141px;
+  left: 0px;
+  width: 1280px;
+  height: 348px;
+  background: #1e1a13 0% 0% no-repeat padding-box;
+}
+h2 {
+  margin-top: 75px;
+  margin-bottom: 50px;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-size: 40px;
+  font-style: normal;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  color: #ffffff;
+}
+
+.icon {
+  width: 203px;
+  height: 127px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.text {
+  margin-top: 16px;
+  margin-bottom: 16px;
+  padding: 0px;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-size: 25px;
+  font-style: normal;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.galeria {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-evenly;
+  align-items: center;
+  top: 1488px;
+  left: 0px;
+  width: 1280px;
+  height: 348px;
+  color: #000000;
+  background: #000000 0% 0% no-repeat padding-box;
+  opacity: 0.96;
+}
+
+.imagen2 {
+  background-image: url(../img/iguana-2.jpg);
+}
+.imagen3 {
+  background-image: url(../img/iguana-3.jpg);
+}
+.imagen4 {
+  background-image: url(../img/iguana-4.jpg);
+}
+
+.imagen2,
+.imagen3,
+.imagen4 {
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 316px;
+  height: 202px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 1835px;
+  left: 0px;
+  width: 1280px;
+  height: 102px;
+  background: #1e1a13 0% 0% no-repeat padding-box;
+  opacity: 0.94;
+}
+
+address {
+  margin: 0px;
+  padding: 0px;
+  width: 682px;
+  height: 24px;
+  text-align: left;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-size: 20px;
+  font-style: normal;
+  color: #ffffff;
+  opacity: 1;
+}
